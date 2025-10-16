@@ -26,3 +26,5 @@ python main.py
 
 4. quando solicitado, insira o diretorio do arquivo que deseja analisar
 
+5. Atenção, voce precisará substituir a chave OPENAI_KEY para a sua propria chave
+
